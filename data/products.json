@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1001,
+        "name": "Cobb Salad",
+        "priceInCents": 1355
+    },
+    {
+        "id": 1002,
+        "name": "Greek Salad",
+        "priceInCents": 1250
+    },
+    {
+        "id": 2001,
+        "name": "Grilled Chicken Sandwich",
+        "priceInCents": 1775
+    },
+    {
+        "id": 2002,
+        "name": "Grilled Gouda Sandwich",
+        "priceInCents": 1425
+    },
+    {
+        "id": 3001,
+        "name": "Tomato Basil Soup",
+        "priceInCents": 850
+    },
+    {
+        "id": 3002,
+        "name": "French Onion Soup",
+        "priceInCents": 940
+    }
+]
