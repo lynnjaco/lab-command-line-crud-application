@@ -7,7 +7,7 @@ function run() {
         case "index":
             inform(action);
             break;
-        case "create":
+        case "purchase":
             inform(action, product);
             break;
         case "show":

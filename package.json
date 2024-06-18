@@ -10,7 +10,7 @@
   "devDependencies": {},
   "scripts": {
     "index": "node index.js index",
-    "create": "node index.js create",
+    "purchase": "node index.js purchase",
     "show": "node index.js show",
     "update": "node index.js update",
     "destroy": "node index.js destroy",
